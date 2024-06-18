@@ -5,4 +5,4 @@ The purpose of this small project was to gain some more hands on experience usin
 The best way I found was to build projects. 
 
 ### Note
-I used github to also incorporate CI/CD so that the Docker Container would be able to update as the code baase grew
+I used GitHub to also incorporate CI/CD so that the Docker Container would be able to update as the code base grew
